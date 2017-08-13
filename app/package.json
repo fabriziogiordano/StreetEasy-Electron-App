@@ -1,0 +1,10 @@
+{
+    "name": "streeteasy-agent-tools-app",
+    "productName": "streeteasy-agent-tools-app",
+    "version": "1.0.0",
+    "description": "StreetEasy App Folder",
+    "main": "./main.prod.js",
+    "license": "MIT",
+    "dependencies": {
+    }
+  }
