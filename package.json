@@ -1,0 +1,16 @@
+{
+  "name": "streeteasy-electron-app",
+  "version": "1.0.0",
+  "description": "StreetEasy Agent Tools Native App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/fabriziogiordano/StreetEasy-Electron-App",
+  "keywords": ["StreetEasy", "quick", "start", "tutorial", "demo"],
+  "author": "Fabrizio Giordano",
+  "license": "Private",
+  "devDependencies": {
+    "electron": "~1.7.5"
+  }
+}
